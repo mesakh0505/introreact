@@ -14,16 +14,18 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
       <div className="flex w-9/12 gap-16 justify-center items-center">
         <div className="skill-sec1 flex flex-col text-left gap-5 pt-6 pb-6 pr-10 pl-10 rounded bg-white/10 hover:bg-black/40">
           <span className="text-3xl font-bold border-b-2 border-amber-400 p-2 text-amber-400">
-            Web Technologies
+            Web Technologies<br/>Mechatronics
           </span>
           <ul className="flex flex-col gap-1 font-semibold text-base text-lime-50">
             <li>HTML5</li>
             <li>CSS3</li>
             <li>JavaScript-ES6</li>
             <li>React</li>
-            <li>Vue</li>
+            <li>Vite</li>
             <li>TailWindCSS</li>
-            <li>Bootstrap</li>
+            <li>Solidworks,AutoCad</li>
+            <li>Maintenance</li>
+
           </ul>
         </div>
         <div className="skill-sec2 flex flex-col text-center gap-5 pt-6 pb-6 pr-12 pl-12 rounded bg-white/10 hover:bg-black/40">
@@ -33,11 +35,12 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
           <ul className="flex flex-col gap-1 font-semibold text-base text-lime-50">
             <li>Git, Github</li>
             <li>Vite.js</li>
-            <li>Bash</li>
+            <li>Docker</li>
             <li>Postman</li>
-            <li>AdobeXD, Figma</li>
+            <li>Autocad</li>
             <li>Chrome/Firefox Dev Tools</li>
             <li>Visual Studio Code</li>
+
           </ul>
         </div>
         <div className="skill-sec3 flex flex-col text-right gap-5 pt-6 pb-6 pr-10 pl-10 rounded bg-white/10 hover:bg-black/40">

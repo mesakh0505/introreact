@@ -97,7 +97,7 @@ relative bg-cover bg-no-repeat text-white"
               </button>
               <span>or</span>
               <a
-                href="mailto:soumen.sagor@gmail.com"
+                href="mailto:Mesakhhartono@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded bg-green-600 font-semibold flex gap-1 items-center hover:bg-amber-400 hover:text-black"
@@ -135,9 +135,9 @@ relative bg-cover bg-no-repeat text-white"
       <div className="footer w-full h-1/6 bg-black/50 flex flex-col items-center justify-center text-amber-200/70">
         <span>A Vite+TailWindCSS+React App</span>
         <span className=" font-semibold">
-          Designed and Developed by SOUMEN TALUKDER with ❤
+          Developed using Vite and React
         </span>
-        <span>All Rights Reserved@2023</span>
+        <span>Purwadhika Coding School</span>
       </div>
     </div>
   );

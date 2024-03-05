@@ -13,15 +13,14 @@ const Home = () => {
       </div>
       <>
         <span className="relative font-dancingScript text-2xl tracking-widest">
-          Hey there!
+          Hello World!
         </span>
         <span className=" text-5xl font-extrabold relative font-dm-serifDisplay tracking-wider text-amber-400">
-          I am Soumen TALUKDER
+          I am Mesakh Hartono
         </span>
       </>
       <span className=" text-2xl text-center relative font-genos">
-        A Frontend Developer with a passion for creating beautiful,
-        user-friendly websites.
+        Aspiring Mechatronics Engineer to Create Innovative Digital Solution
       </span>
     </div>
   );

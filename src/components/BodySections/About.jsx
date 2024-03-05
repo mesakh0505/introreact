@@ -14,14 +14,10 @@ const About = () => {
             About me:{" "}
           </div>
           <div className="about-body-right-content h-auto flex items-center justify-center text-justify">
-            I have always been fascinated by the intersection of design and
-            technology, and how they can come together to create beautiful and
-            functional websites. As a front-end web developer, I see myself as a
-            storyteller, using code to bring my client's vision to life. I take
-            pride in my ability to create intuitive user experiences that keep
-            visitors engaged and coming back for more. When I'm not coding, you
-            can find me exploring new hiking trails or experimenting with a new
-            recipe in the kitchen.
+          Mechatronics and Digital Enthusiast Currently progressing on Fullstack Web Development.
+          Technically adept, billingual with proven record on managing manufacturing and Real Estate Sectors both 
+          technically and commercial aspect such as managing budget and cost.
+          Currently, he is still studying digital skill on Purwadhika Digital Technology School
           </div>
           <Link to="/resume">
             {" "}

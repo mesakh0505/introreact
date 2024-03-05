@@ -26,7 +26,7 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
               }`}
               onClick={() => handleOptionClick(1)}
             >
-              B. Tech
+              Dipl.Ing
             </li>
             <li
               className={`cursor-pointer text-lg font-semibold p-3 mb-2 rounded bg-black/60 hover:bg-black/80  ${
@@ -34,7 +34,7 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
               }`}
               onClick={() => handleOptionClick(2)}
             >
-              H. S. C
+              ST.
             </li>
             <li
               className={`cursor-pointer text-lg font-semibold p-3 mb-2 rounded bg-black/60 hover:bg-black/80 ${
@@ -42,7 +42,7 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
               }`}
               onClick={() => handleOptionClick(3)}
             >
-              S. S. C
+              Mechatronics Engineer
             </li>
           </ul>
         </div>
@@ -52,11 +52,11 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
             <div className="h-full w-full backdrop-blur-sm bg-black/40 pt-10 pb-10 pr-6 pl-6 flex flex-col gap-6">
               <div className="degree flex flex-col gap-2 bg-black/50 rounded-lg p-4">
                 <div className="d-title text-3xl font-semibold  text-amber-300">
-                  Bachelor of Technology
+                  Dipl.Ing
                 </div>
                 <div className="d-address text-lg">
-                  Institute of Engineering & Management, Maulana Abul Kalam Azad
-                  University of Technology, <br /> West Bengal, India
+                  Swiss German University<br/>
+                  Faculty of Engineering And Informatics <br /> Bumi Serpong Damai Indonesia
                 </div>
               </div>
               <div className="degree-extra flex justify-between">
@@ -65,7 +65,8 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
                     Major:
                   </div>
                   <div className="d-major-text text-lg">
-                    Information Technology
+                    <h0>Mechatronics Engineering </h0>
+                    <h1>Faculty Of Industrial Technology</h1>
                   </div>
                   <div className="d-major-link text-blue-400">
                     <a
@@ -82,15 +83,13 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
                   <div className="text-3xl font-medium  text-amber-300">
                     Tenure:
                   </div>
-                  <div className="text-lg">4 Years</div>
-                  <div className="text-base">2017-2021</div>
                 </div>
                 <div className="d-grades flex flex-col gap-2 bg-black/70 rounded-lg p-4 text-right">
                   <div className="text-3xl font-medium  text-amber-300">
                     Grades Achieved:
                   </div>
-                  <div className="text-lg">8.02/10 (Indian)</div>
-                  <div className="text-lg">2.1/4 (German)</div>
+                  <div className="text-lg">3.2/4 (Indonesia)</div>
+                  <div className="text-lg">1.6/4 (Gut)(German)</div>
                 </div>
               </div>
             </div>
@@ -99,11 +98,11 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
             <div className="h-full w-full backdrop-blur-sm bg-black/40 pt-10 pb-10 pr-6 pl-6 flex flex-col gap-6">
               <div className="degree flex flex-col gap-2 bg-black/50 rounded-lg p-4">
                 <div className="d-title text-3xl font-semibold  text-amber-300">
-                  Higher Secondary Certificate Examination
+                  Mechatronics Industrial Training
                 </div>
                 <div className="d-address text-lg">
-                  B. A. F. Shaheen College, Chittagong Board,
-                  <br /> Chittagong, Bangladesh
+                  Akademi Teknik Mesin Industri Cikarang
+                  <br /> Cikarang,Indonesia
                 </div>
               </div>
               <div className="degree-extra flex justify-between">
@@ -111,7 +110,7 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
                   <div className="d-major-title text-3xl font-medium  text-amber-300">
                     Major:
                   </div>
-                  <div className="d-major-text text-lg">Science</div>
+                  <div className="d-major-text text-lg">Teknik Mekatronika</div>
                   <div className="d-major-link text-blue-400">
                     <a
                       href="http://"
@@ -127,14 +126,13 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
                   <div className="text-3xl font-medium  text-amber-300">
                     Tenure:
                   </div>
-                  <div className="text-lg">2 Years</div>
-                  <div className="text-base">2015-2017</div>
+                  <div className="text-lg">1 Years</div>
                 </div>
                 <div className="d-grades flex flex-col gap-2 bg-black/70 rounded-lg p-4 text-right">
                   <div className="text-3xl font-medium  text-amber-300">
                     Grades Achieved:
                   </div>
-                  <div className="text-lg">4.50/5.00</div>
+                  <div className="text-lg">3.8(dengan Pujian)</div>
                 </div>
               </div>
             </div>
@@ -143,11 +141,11 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
             <div className="h-full w-full backdrop-blur-sm bg-black/40 pt-10 pb-10 pr-6 pl-6 flex flex-col gap-6">
               <div className="degree flex flex-col gap-2 bg-black/50 rounded-lg p-4">
                 <div className="d-title text-3xl font-semibold  text-amber-300">
-                  Secondary School Certificate Examination
+                  High School 
                 </div>
                 <div className="d-address text-lg">
-                  B. N. High School, Chittagong Board,
-                  <br /> Chittagong, Bangladesh
+                  SMA Kolese Loyola
+                  <br /> Semarang,Indonesia
                 </div>
               </div>
               <div className="degree-extra flex justify-between">
@@ -171,14 +169,14 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
                   <div className="text-3xl font-medium  text-amber-300">
                     Tenure:
                   </div>
-                  <div className="text-lg">5 Years</div>
-                  <div className="text-base">2010-2015</div>
+                  
+                  <div className="text-base">2009-2012</div>
                 </div>
                 <div className="d-grades flex flex-col gap-2 bg-black/70 rounded-lg p-4 text-right">
                   <div className="text-3xl font-medium  text-amber-300">
                     Grades Achieved:
                   </div>
-                  <div className="text-lg">5.00/5.00</div>
+                  <div className="text-lg">Baik</div>
                 </div>
               </div>
             </div>
